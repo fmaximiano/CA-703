@@ -9,7 +9,8 @@
 |LATTES   |http://lattes.cnpq.br/2137986175572481|
 |E-MAIL   |pauloac@ita.br|
 
-|Nei Yoshihiro Soma||
-| ------------ | ------------ |
+|Nei Yoshihiro Soma|http://www.ita.br/~nei|
+|:-------------|:-------------|
 |LATTES|http://lattes.cnpq.br/6696856383237372|
-|E-MAIL|nysoma@ita.br|
+|E-MAIL|nysoma@ita.br; nei@ita.br|
+
